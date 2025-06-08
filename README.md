@@ -14,7 +14,7 @@ A friendly, hilarious AI chatbot built with Node.js using OpenAI's GPT-3.5-turbo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/ai-chatbot.git
+   git clone https://github.com/Z-243/ai-chatbot.git
    cd ai-chatbot
    ```
 
