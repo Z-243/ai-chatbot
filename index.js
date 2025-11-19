@@ -1,4 +1,4 @@
-// Initaialise the chatgpt api, then we are going to prompt a user for a message and continue the convo until the user ends the file
+// Initaialise the chatgpt api, then we prompt the user for a message and continue the convo until the user ends the file
 
 import OpenAIApi from "openai";
 
